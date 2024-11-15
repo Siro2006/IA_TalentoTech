@@ -1,5 +1,5 @@
 import streamlit as st  # Importa la biblioteca Streamlit para crear la interfaz de usuario
-from groq import groq  # Importa la clase Groq para interactuar con el modelo de IA
+import groq as gq  # Importa la clase Groq para interactuar con el modelo de IA
 
 
 # Configuración básica de la aplicación
